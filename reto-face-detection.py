@@ -4,7 +4,7 @@ import requests
 import os
 
 # Configuración de Clarifai (necesitarás tu API key)
-CLARIFAI_API_KEY = 'a727214e43614daea2f405db7dde7dd7'
+CLARIFAI_API_KEY = ''
 USER_ID = 'clarifai'
 APP_ID = 'main'
 MODEL_ID = 'face-detection'
